@@ -3,6 +3,13 @@
 === Level 2 section
 == Level 1 section
 
+```mermaid
+  graph TD;
+      A-->B;
+      A-->C;
+      B-->D;
+      C-->D;
+```
 
 * aaa
 ** bbb
